@@ -1,0 +1,3 @@
+Example: 
+
+python snapshots.py -A MyAccount --snaponly --exclude=myinstancename, myinstancename2
